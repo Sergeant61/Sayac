@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6e2525</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#159180</color>
+
+    <color name="btn1_rengi">#3fb31c</color>
+    <color name="btn1_rengi2">#1a500a</color>
+
+    <color name="r0">#ff0000</color>
+    <color name="r1">#3bff00</color>
+    <color name="r2">#0015ff</color>
+    <color name="r3">#474846</color>
+    <color name="r4">#a9aba8</color>
+
+
+</resources>

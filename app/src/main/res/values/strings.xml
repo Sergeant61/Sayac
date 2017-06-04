@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Sayaç Uygulaması</string>
+
+    <string name="btn1">Buton</string>
+
+    <string name="set1">Seçenekler</string>
+    <string name="set2">Sıfırla</string>
+
+
+    <string name="uygulama_kimligi">ca-app-pub-4290213591387909~9256943473</string>
+    <string name="reklam_kimligi">ca-app-pub-4290213591387909/1733676671</string>
+
+
+
+
+    <string-array name="renk_pozisyon">
+
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+    </string-array>
+
+    <string-array name="renkler">
+
+        <item>Kırmızı</item>
+        <item>Yeşil</item>
+        <item>Mavi</item>
+        <item>Koyu Gri</item>
+        <item>Açık Gri</item>
+
+        <item>Ahşap 1</item>
+        <item>Ahşap 2</item>
+        <item>Çicek 1</item>
+        <item>Çicek 2</item>
+        <item>Duvar 1</item>
+        <item>Duvar 2</item>
+
+    </string-array>
+
+
+    <string-array name="ses_pozisyon">
+
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+
+    </string-array>
+
+    <string-array name="ses_p">
+
+        <item>Karka</item>
+        <item>Hışırtı</item>
+        <item>Bit</item>
+        <item>Hakem Düdüğü 1</item>
+        <item>Hakem Düdüğü 2</item>
+        <item>Sessiz</item>
+
+    </string-array>
+
+
+
+
+</resources>
